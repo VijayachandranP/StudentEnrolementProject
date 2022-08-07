@@ -66,7 +66,7 @@ if __name__== "__main__":
 
     TotalNumberOfTestCases=19
     count=0
-    for i in range (1,TotalNumberOfTestCases+1,1): # Select this for running all test
+    for i in range (1,TotalNumberOfTestCases+1,1): # Select this for running all tests
     # for i in [12,13,14,15,16,17,18,19]: # Enter Test Case numbers individually in list
         count=count+1
         # print (i)
